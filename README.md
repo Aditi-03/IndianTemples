@@ -1,5 +1,5 @@
 # IndianTemples
-Demo Link-https://warm-scrubland-87277.herokuapp.com/campgrounds
+Demo Link-https://warm-scrubland-87277.herokuapp.com/campgrounds.
 This website supports crud opeartions on temple infromation and reviews as well.
 To run this on local machine:
 1.clone this repository to local machine.
